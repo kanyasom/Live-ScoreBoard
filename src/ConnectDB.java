@@ -10,8 +10,8 @@ public class ConnectDB {
 
 	private static final String JDBC_URL = "jdbc:mysql://localhost:3306/sports";
 	private static final String DRIVER_NAME="com.mysql.cj.jdbc.Driver";
-	private static final String USERNAME="root";
-	private static final String PASSWORD="KILLU";
+	private static final String USERNAME="****";
+	private static final String PASSWORD="*****";
 	
 	private static Connection connection=null;
 	private static Statement stmt = null;
